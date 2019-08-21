@@ -1,0 +1,17 @@
+.error {
+  width: 100%;
+  text-align: center;
+}
+
+.error-img {
+  width: 25%;
+}
+
+.error-title {
+  text-transform: uppercase;
+  margin: 10px 0;
+}
+
+.error-text {
+  margin: 0;
+}

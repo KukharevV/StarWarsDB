@@ -1,0 +1,16 @@
+.header {
+  padding: 10px;
+}
+
+.header-title {
+  color: white;
+  transition: color 0.3s linear;
+}
+
+.nav-menu {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+}
